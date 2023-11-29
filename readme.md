@@ -5,7 +5,7 @@ Aluno Pós-Graduação 4 dias
 Professor           7 dias
 Tabela 1: Tempo de empréstimo de cada tipo de usuário
 
-| Tipo de Usuário    |   Limite de Empréstimos em Aberto                           |
+| Tipo de Usuário    |   Tempo de Empréstimo                           |
 | :---------- |   :---------------------------------- |
 | `Aluno Graduação` |  `3 dias` |
 | `Aluno Pós-Graduação` |  ` 4 dias ` |
@@ -27,7 +27,7 @@ Tipo de Usuário     Limite de Empréstimos em Aberto
 Aluno Graduação       3 livros
 Aluno Pós-Graduação   4 livros
 
-| Tipo de Usuário    |   Tempo de Empréstimo                           |
+| Tipo de Usuário    |   Limite de Empréstimos em Aberto                           |
 | :---------- |   :---------------------------------- |
 | `Aluno Graduação` |   `3 livros` |
 | `Aluno Pós-Graduação` |   `4 livros` |
