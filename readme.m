@@ -1,4 +1,5 @@
 Tipo de Usuário     Tempo de Empréstimo
+
 Aluno Graduação     3 dias
 Aluno Pós-Graduação 4 dias
 Professor           7 dias
