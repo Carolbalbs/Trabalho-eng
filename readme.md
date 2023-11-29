@@ -1,9 +1,14 @@
 Tipo de Usuário     Tempo de Empréstimo
 
-Aluno Graduação     3 dias
+Aluno Graduação    
 Aluno Pós-Graduação 4 dias
 Professor           7 dias
 Tabela 1: Tempo de empréstimo de cada tipo de usuário
+| Tipo de Usuário    |   Tempo de Empréstimo                           |
+| :---------- |   :---------------------------------- |
+| `Aluno Graduação` |  ** 3 dias** |
+| `Aluno Pós-Graduação` |  ** 4 dias** |
+| `Professor` |  ** 7 dias** |
 
 # Regra de Empréstimo para Aluno.
 O empréstimo do livro só será concretizado para um aluno de graduação ou um aluno de
